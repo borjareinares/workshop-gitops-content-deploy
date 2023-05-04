@@ -30,6 +30,8 @@ vault:
   avp_auth_type: approle
   avp_role_id: 7fd49bf8-50e8-f6db-ca17-87d5bc1a338f
   avp_secret_id: f80fd850-7096-8bbf-505e-3b3f7828d754
+  avp_role_id: 7fd49bf8-50e8-f6db-ca17-87d5bc1a338f
+  avp_secret_id: f80fd850-7096-8bbf-505e-3b3f7828d754
 
 namespaces:
   - name: app
